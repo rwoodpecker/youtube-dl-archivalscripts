@@ -1,6 +1,4 @@
-# TheFrenchGhosty's YouTube-DL Archivist Scripts
-
-Associated Reddit /r/Datahoarder post: [Here](https://redd.it/dwhvq6)
+# Fork of [TheFrenchGhosty's YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts)
 
 **Requires [youtube-dl](https://youtube-dl.org/) and [ffmpeg](https://www.ffmpeg.org/)**
 
